@@ -20,7 +20,7 @@ ThinkBoard App é um projeto MERN (MongoDB, Express, React, Node.js) desenvolvid
 ### Instalação
 1. Clone o repositório:
    ```sh
-   git clone [<url-do-repositorio>](https://github.com/humbertoh2a/thinkboard-app.git)
+   git clone https://github.com/humbertoh2a/thinkboard-app.git
    ```
 2. Instale as dependências:
    ```sh
